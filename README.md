@@ -51,6 +51,7 @@ PayPal,eBay, CryptoCurrency, Verizon, DropBox, Adobe ID, Shopify, Messenger, Twi
 #### Description
 BLACKEYE is an upgrade from the original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by the Linux choice under GNU LICENSE. It is the most complete Phishing Tool,  with 32 templates +1 customizable
 
+
 ## Legal disclaimer:
 The use of BlackEye to attack targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only used for educational purposes.
 
